@@ -99,7 +99,7 @@ backend/
 ##  Author
 
 
-- GitHub: [@YourUsername](https://github.com/YourUsername)
+- GitHub:https://github.com/justicefriday
 
 ## 📄 License
 
