@@ -8,7 +8,7 @@ A full-stack MERN authentication application with secure login and registration 
 
 ## Built With
 
-**Frontend**
+**Client**
 - React.js (Vite)
 - Zustand (state management with persist middleware)
 - Bootstrap 5
