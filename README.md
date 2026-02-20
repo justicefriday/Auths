@@ -48,16 +48,7 @@ CLIENT_URL=http://localhost:5173
 ```
 ```bash
 npm run dev
-```
 
-**Frontend setup**
-```bash
-cd auth-mern-Client
-npm install
-```
-
-Create a `.env` file:
-```
 VITE_API_URL=http://localhost:5000/api
 ```
 ```bash
