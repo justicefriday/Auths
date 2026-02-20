@@ -3,8 +3,7 @@
 A full-stack MERN authentication application with secure login and registration functionality.
 
 ## Live Demo
-
-- **Frontend:** https://auths-two.vercel.app
+- **Client:** https://auths-two.vercel.app
 - **Backend:** https://auths-production.up.railway.app
 
 ## Built With
@@ -26,7 +25,6 @@ A full-stack MERN authentication application with secure login and registration 
 - CORS
 
 ## Features
-
 - User registration with validation
 - Secure login with JWT authentication
 - Protected dashboard route
@@ -41,20 +39,6 @@ A full-stack MERN authentication application with secure login and registration 
 - Node.js
 - MongoDB Atlas account
 
-### Installation
-
-**Clone the repo**
-```bash
-git clone https://github.com/YourUsername/auth-mern-backend.git
-git clone https://github.com/YourUsername/auth-mern-frontend.git
-```
-
-**Backend setup**
-```bash
-cd auth-mern-backend
-npm install
-```
-
 Create a `.env` file:
 ```
 PORT=5000
@@ -68,7 +52,7 @@ npm run dev
 
 **Frontend setup**
 ```bash
-cd auth-mern-frontend
+cd auth-mern-Client
 npm install
 ```
 
@@ -82,7 +66,7 @@ npm run dev
 
 ## Project Structure
 ```
-frontend/
+Client/
 ├── src/
 │   ├── api/          # Axios API calls
 │   ├── components/   # Header, Hero, Spinner
